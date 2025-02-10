@@ -40,4 +40,3 @@ I'm an early career technologist, striving to learn more about SysOps, cloud adm
 - AWS
 
 ### **Phase 6: Conclusion**
-

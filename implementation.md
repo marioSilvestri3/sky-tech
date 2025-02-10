@@ -1,6 +1,6 @@
 # **Project: Deploying a .NET App on AWS**
 ## **Objective:**  
-Deploy a .NET app on AWS, including setting up Windows Server, IIS, SQL Server, and implementing best practices for security and performance.
+Deploy a .NET app on AWS, including setting up Windows Server, IIS, and SQL Server; and implementing best practices for security and performance.
 
 ---
 
